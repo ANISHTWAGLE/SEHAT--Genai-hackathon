@@ -1,0 +1,8 @@
+{
+  "name": "SEHAT - Smart Expert Healthcare Assistant Tool",
+  "description": "A unified, intelligent healthcare platform combining conversational AI and expert medical assistance.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
