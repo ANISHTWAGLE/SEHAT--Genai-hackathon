@@ -1,0 +1,7 @@
+{
+  "name": "MediShop AI",
+  "description": "A voice-controlled medical shopping assistant using Gemini Live API for conversational interaction and shop control, plus Gemini TTS for product reading.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "MediLocate AI",
+  "description": "Emergency hospital locator powered by Gemini 2.5 Flash with Maps Grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
